@@ -58,6 +58,21 @@ Includes car listings, filtering, detailed pages, and WhatsApp-based inquiry flo
 - API design & scalability concepts
 
 ---
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 500 500">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; justify-content: center; height: 100%;">
+      <img src="desktop-image.jpg" style="width: 100%; max-width: 400px;">
+      <img src="mobile-image.jpg" style="width: 100%; max-width: 400px; display: none;">
+      <style>
+        @media (max-width: 450px) {
+          img:first-of-type { display: none; }
+          img:last-of-type { display: block; }
+        }
+      </style>
+    </div>
+  </foreignObject>
+</svg>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmad-FikriA/Ahmad-FikriA/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmad-FikriA/Ahmad-FikriA/output/github-contribution-grid-snake.svg">
