@@ -65,4 +65,4 @@ Includes car listings, filtering, detailed pages, and WhatsApp-based inquiry flo
 
 ### 🌍 Connect
 LinkedIn: https://www.linkedin.com/in/amdfikriasq  
-Portfolio: https://portfolio-nextjs-zeta-ochre.vercel.app/
+Portfolio: https://amdfikriasq.vercel.app/
