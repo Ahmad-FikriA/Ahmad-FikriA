@@ -1,5 +1,11 @@
 # Hi, I'm Ahmad Fikri 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmad-FikriA/Ahmad-FikriA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmad-FikriA/Ahmad-FikriA/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmad-FikriA/Ahmad-FikriA/output/github-contribution-grid-snake.svg">
+</picture>
+
 Informatics student who loves building real-world software — especially projects that solve practical problems in business and everyday life. Right now I'm focusing on web development using Next.js and strengthening my backend & system-design fundamentals.
 
 ---
