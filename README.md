@@ -64,7 +64,7 @@ focus:
   - Backend & System Design
   - Mobile Apps (Flutter)
 currently_building:
-  - "BitBlox — Roblox Top-Up Platform"
+  - "MANTIS - PT Krakatau Tirta Industri App"
   - "Alfikri Motor — Family Business Showroom"
 fun_fact: "I ship real products, not just side projects 🚀"
 ```
