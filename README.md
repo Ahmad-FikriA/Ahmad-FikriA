@@ -1,120 +1,160 @@
-# Ahmad Fikri
+# Hey, I'm Ahmad 👋
 
-AI & Software Engineer focused on building reliable LLM systems, backend services, and production applications.
+### AI Engineer in progress. Software Engineer by foundation.
 
-My background started in full-stack and mobile development, where I worked on real-world systems involving industrial maintenance workflows, payment processing, SAP integration, APIs, PostgreSQL, Docker, Flutter, React, and Next.js.
+I build software systems that mix **LLMs, backend engineering, and real-world workflows**.
 
-More recently, I’ve been focusing on AI engineering — particularly Retrieval-Augmented Generation, structured outputs, agentic workflows, evaluation, and human-in-the-loop AI systems.
+Most of my recent work revolves around:
 
-## What I'm Working On
+`RAG` · `AI Agents` · `Structured Outputs` · `FastAPI` · `PostgreSQL` · `Docker` · `Next.js`
 
-- LLM application engineering
-- Retrieval-Augmented Generation (RAG)
-- AI agents and tool-using systems
-- LLM evaluation and reliability
-- Backend and system architecture
+---
+
+## 🧠 What I'm into right now
+
+- Building reliable LLM applications
+- Retrieval-Augmented Generation
+- AI agents & tool-using workflows
+- Human-in-the-loop systems
+- LLM evaluation, cost, and latency
+- Backend architecture
 - Applied AI research
 
-## Selected Projects
-
-### BEDA Enquiry Studio
-
-Human-in-the-loop AI system for processing inbound business enquiries.
-
-The system combines LLM-based interpretation with deterministic validation and workflow controls.
-
-Key areas:
-- structured LLM outputs
-- deterministic CRM matching
-- bounded research workflows
-- human approval for consequential actions
-- retries and idempotency
-- audit trails and failure handling
-
-Repository:  
-https://github.com/Ahmad-FikriA/beda-ai-enquiry-system
+> I’m especially interested in one question:
+>
+> **What should an LLM actually be responsible for, and what should stay deterministic?**
 
 ---
 
-### ResBot — RAG HR Knowledge Assistant
+## ⚡ Featured Work
 
-Bilingual HR knowledge assistant built around document-grounded retrieval.
+<table>
+<tr>
+<td width="50%">
 
-Key areas:
+### 🤖 BEDA Enquiry Studio
+
+Human-in-the-loop AI workflow for processing inbound business enquiries.
+
+**Highlights**
+- structured LLM outputs
+- deterministic validation
+- CRM matching
+- bounded research
+- retries & idempotency
+- approval workflows
+- audit trails
+
+[View Repository →](https://github.com/Ahmad-FikriA/beda-ai-enquiry-system)
+
+</td>
+<td width="50%">
+
+### 🧠 ResBot
+
+Bilingual RAG-powered HR knowledge assistant grounded in internal documents.
+
+**Highlights**
 - document ingestion
 - semantic retrieval
-- embeddings and vector search
-- source-grounded responses
+- vector search
 - citations
-- authentication and audit logging
-- guardrails for unsupported queries
-- Dockerized application stack
+- guardrails
+- authentication
+- Dockerized stack
 
-Repository:  
-https://github.com/Ahmad-FikriA/hr-chatbot
+[View Repository →](https://github.com/Ahmad-FikriA/hr-chatbot)
 
----
+</td>
+</tr>
 
-### Alfikri Motor
+<tr>
+<td width="50%">
 
-Digital showroom for a local used-car business.
+### 🚗 Alfikri Motor
 
-Built to improve vehicle discovery while keeping the final customer interaction through WhatsApp.
+Digital showroom built for a local used-car business.
 
-Key areas:
-- vehicle catalogue management
-- filtering and search
-- lightweight recommendation system
+**Highlights**
+- vehicle catalog
+- filtering & discovery
+- lightweight recommendations
 - admin workflows
 - production deployment
 
-Live:  
-https://alfikri-motor.vercel.app
+[Live Demo →](https://alfikri-motor.vercel.app)
 
-## Tech
+</td>
+<td width="50%">
 
-**AI & Backend**
+### 🏭 MANTIS
 
-Python · FastAPI · LLM APIs · RAG · Embeddings · Vector Search · PostgreSQL · Docker
+Industrial maintenance system built around real field workflows.
 
-**Web**
-
-TypeScript · React · Next.js · Node.js · Tailwind CSS
-
-**Mobile & Platform**
-
-Flutter · Firebase · Supabase · REST APIs · Git
-
-## Currently Exploring
-
-I'm particularly interested in the engineering side of AI systems:
-
-- what should be handled by an LLM
-- what should remain deterministic
-- how context should be retrieved and provided
-- how to evaluate whether an AI system actually works
-- how to reduce hallucination, cost, and latency
-- how to design safe human-in-the-loop workflows
-
-I'm also exploring research around context and skill provisioning strategies for LLM-based systems.
-
-## Background
-
-I’ve worked on software involving:
-
-- industrial maintenance workflows
-- SAP data synchronization
-- GPS-based field validation
-- QR-based equipment access
+**Highlights**
+- mobile + web
+- GPS validation
+- QR equipment scanning
 - push notifications
-- payment systems
-- full-stack web applications
-- mobile applications
+- SAP synchronization
+- maintenance history
 
-My current direction is combining that software engineering foundation with AI systems engineering.
+</td>
+</tr>
+</table>
 
-## Connect
+---
 
-LinkedIn: https://www.linkedin.com/in/amdfikriasq/
+## 🛠 Stack
 
-Portfolio: https://amdfikriasq.vercel.app
+### AI / Backend
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### Web
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+### Mobile / Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+
+---
+
+## 🧪 Currently Researching
+
+I'm currently exploring how **context / skill provisioning strategies** affect LLM-based systems.
+
+Things I'm looking at:
+
+- static context injection
+- retrieval-based context selection
+- progressive disclosure
+- token consumption
+- task success rate
+- cost / latency trade-offs
+
+---
+
+## 📌 A bit about my path
+
+I didn't start from AI.
+
+I started by building web and mobile systems, dealing with APIs, databases, deployment, field workflows, integrations, and production constraints.
+
+That foundation is now shaping how I approach AI engineering:
+
+**less "let the model do everything"**
+  
+**more "design the system so the model only does what it's actually good at."**
+
+---
+
+## 🌐 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Fikri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amdfikriasq/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amdfikriasq.vercel.app-black?logo=vercel)](https://amdfikriasq.vercel.app)
