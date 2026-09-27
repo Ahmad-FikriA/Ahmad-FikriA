@@ -32,7 +32,7 @@ Most of my recent work revolves around:
 <tr>
 <td width="50%">
 
-### 🤖 BEDA Enquiry Studio
+### Enquiry Studio
 
 Human-in-the-loop AI workflow for processing inbound business enquiries.
 
@@ -50,7 +50,7 @@ Human-in-the-loop AI workflow for processing inbound business enquiries.
 </td>
 <td width="50%">
 
-### 🧠 ResBot
+### ResBot
 
 Bilingual RAG-powered HR knowledge assistant grounded in internal documents.
 
@@ -71,7 +71,7 @@ Bilingual RAG-powered HR knowledge assistant grounded in internal documents.
 <tr>
 <td width="50%">
 
-### 🚗 Alfikri Motor
+### Alfikri Motor
 
 Digital showroom built for a local used-car business.
 
@@ -87,7 +87,7 @@ Digital showroom built for a local used-car business.
 </td>
 <td width="50%">
 
-### 🏭 MANTIS
+### MANTIS
 
 Industrial maintenance system built around real field workflows.
 
