@@ -15,14 +15,8 @@ Most of my recent work revolves around:
 - Building reliable LLM applications
 - Retrieval-Augmented Generation
 - AI agents & tool-using workflows
-- Human-in-the-loop systems
-- LLM evaluation, cost, and latency
-- Backend architecture
-- Applied AI research
+- Fullstack architecture
 
-> I’m especially interested in one question:
->
-> **What should an LLM actually be responsible for, and what should stay deterministic?**
 
 ---
 
@@ -140,21 +134,7 @@ Things I'm looking at:
 
 ---
 
-## 📌 A bit about my path
-
-I didn't start from AI.
-
-I started by building web and mobile systems, dealing with APIs, databases, deployment, field workflows, integrations, and production constraints.
-
-That foundation is now shaping how I approach AI engineering:
-
-**less "let the model do everything"**
-  
-**more "design the system so the model only does what it's actually good at."**
-
----
-
 ## 🌐 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Fikri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amdfikriasq/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amdfikriasq.vercel.app-black?logo=vercel)](https://amdfikriasq.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amdfikriasq.vercel.app-black?logo=vercel)](https://amdfikriasq.vercel.app
